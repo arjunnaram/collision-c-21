@@ -1,2 +1,2 @@
-# collision-c-21
-2 objects colliding
+# collisionAlgorithm
+Algorithm to detect collision between two objects
